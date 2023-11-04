@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mikhaylov-M
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate with good people ^_^
 
 <!---
